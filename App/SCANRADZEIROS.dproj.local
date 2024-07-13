@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile Android="google33" Android64="google33"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2024/07/12 17:51:43.000.493,C:\AmazonParty\ZxingRAD12\SCANRADZEIRO.dproj=C:\AmazonParty\ZxingRAD12\ZxingDemo.dproj</Transaction>
+    <Transaction>2024/07/12 17:51:50.000.518,C:\AmazonParty\ZxingRAD12\SCANRADZEIROS.dproj=C:\AmazonParty\ZxingRAD12\SCANRADZEIRO.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
