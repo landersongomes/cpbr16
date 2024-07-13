@@ -8,7 +8,7 @@ Baixar e instalar o **Embarcadero RAD Studio 12.1 Athens**:
 
 **Obs**: Trata-se de uma versão *TRIAL*.
 
-Após a instalação do **RAD Studio 12.1 Athens** vamos adiantar nosso trabalho baixando este repositório. Nele já temos o nosso aap modelo para criarmos a solução proposta.
+Após a instalação do **RAD Studio 12.1 Athens** vamos adiantar nosso trabalho e **baixar este repositório**. Nele já temos o nosso aap modelo para criarmos a solução proposta.
 
 Foi criado um servidor REST que fará parte da solução criada. Para acessar este servidor foi disponibilizado temporariamente o link:
 <p>👉 https://www.landersongomes.com.br/servercpbr16</p>
